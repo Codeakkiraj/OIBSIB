@@ -1,7 +1,7 @@
 # OIBSIB
 This is a virtual Internship program of Oasis Infobyte . Where we have assigned the project. 
-# Oasis Infobyte Data Science Internship May june 2024
-### Welcome to my repository for the OIBSIP May 2023 internship! This repository is a collection of my work and projects completed during the internship.
+# Oasis Infobyte Data Science Internship  june 2024
+### Welcome to my repository for the OIBSIP june 2024 internship! This repository is a collection of my work and projects completed during the internship.
 ## Table of Contents :
 #### 1.About the Internship
 #### 2. Tools and Technologies Used
